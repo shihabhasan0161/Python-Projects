@@ -1,0 +1,5 @@
+Libraries used:
+import csv (To read the CSV file)
+from tabulate import tabulate (To format the csv tables)
+from fpdf import FPDF (To create and save a invoice PDF with order summary)
+import pytest (To do the unit testing of the project)
