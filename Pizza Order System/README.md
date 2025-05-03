@@ -1,8 +1,5 @@
 # Pinnocchio's Pizza Ordering System 🍕
 
-## Video Demo
-[Click here to watch the demo!](<https://youtu.be/02niIVA6jiU>)
-
 ## Description
 
 For my CS50 final project, I created **Pinnocchio's Pizza Ordering System**, a command-line Python application that simulates ordering pizzas at a pizzeria.
