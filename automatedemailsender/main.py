@@ -85,7 +85,7 @@ def send_mail():
 
     # list of emails to send to
     to = [
-        "shihabhasan0161@gmail.com",
+        "example@gmail.com",
     ]
 
     msg["To"] = ", ".join(to)
